@@ -3,6 +3,6 @@ kind: Component
 metadata:
   name: cursor-plugin-snyk
 spec:
-  type: examples
+  type: ide-plugin
   lifecycle: "-"
   owner: agentic_dev
